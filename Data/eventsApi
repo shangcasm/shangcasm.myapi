@@ -1,0 +1,26 @@
+[
+    {
+        "eventName": "Grad Ball",
+        "description": "Graduation ball for the graduating students.",
+        "dstart": "Nov. 20, 2022",
+        "dend": "Nov. 20, 22",
+        "eventType": "School Event",
+        "venue": "Marco Polo Plaza"
+    },
+    {
+        "eventName": "CSS L-Trek",
+        "description": "Leadership Trek for CSS volunteers",
+        "dstart": "April 15, 2022",
+        "dend": "April 17, 2022",
+        "eventType": "Team Building",
+        "venue": "Camp Marina, Lahug, Cebu CIty"
+    },
+    {
+        "eventName": "General Assembly",
+        "description": "Acquaintance party and general assemby for the CCS department.",
+        "dstart": "August 2, 2022",
+        "dend": "August 2, 2022",
+        "eventType": "Formal Event",
+        "venue": "CIT- Gym"
+    }
+]
